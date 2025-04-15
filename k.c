@@ -5,6 +5,6 @@ int main()
     fputs("1", stdout);
 
 
-    return 0;
+    return 1;
 }
 
